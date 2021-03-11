@@ -1,0 +1,27 @@
+body {
+  background: #fafafa;
+  color: #333333;
+}
+.content-section {
+	margin-top: 2rem;
+	align-content: center;
+	margin-left: 20rem;
+	margin-right: 20rem;
+}
+h2 {
+	font-size: 90px;
+}
+.positive {
+  color: #30de06;
+  text-align: center;
+  padding-top: 20px;
+}
+.negative {
+	color: #f20b0b;
+	text-align: center;
+	padding-top: 20px;
+}
+.title {
+	font-size: 75px;
+	color: #35c7f1;
+}
